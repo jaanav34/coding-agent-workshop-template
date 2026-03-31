@@ -1,6 +1,6 @@
 {
   "name": "coding-agent-workshop-template",
-  "module": "index.ts",
+  "module": "src/index.ts",
   "type": "module",
   "private": true,
   "devDependencies": {
