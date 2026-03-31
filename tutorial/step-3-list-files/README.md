@@ -97,7 +97,7 @@ Add the tools import and pass it to the agent:
 import { tools } from "./tools";
 ```
 
-Change `tools: {}` to `tools: tools`.
+Add `tools: tools` to the `ToolLoopAgent`.
 
 ## Run it
 

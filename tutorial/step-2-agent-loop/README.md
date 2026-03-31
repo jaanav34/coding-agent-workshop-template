@@ -25,7 +25,6 @@ const ai = new ToolLoopAgent({
     "You are a helpful AI assistant.",
     `You are located at ${process.cwd()}`,
   ].join("\n"),
-  tools: {},
 });
 ```
 

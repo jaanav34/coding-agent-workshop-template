@@ -8,7 +8,6 @@ async function main() {
       "You are a helpful AI assistant.",
       `You are located at ${process.cwd()}`,
     ].join("\n"),
-    tools: {},
   });
 
   while (true) {
